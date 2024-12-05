@@ -3,3 +3,5 @@
 ## Desafio Pokedex
 
 Desafio criado para demonstrar os conhecimentos iniciais em javascript.
+
+https://odairsp.github.io/pokedex/
