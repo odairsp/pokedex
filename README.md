@@ -1,5 +1,5 @@
-#Ri Happy - Front-end do Zero
+# Ri Happy - Front-end do Zero
 
-##Desafio Pokedex
+## Desafio Pokedex
 
 Desafio criado para demonstrar os conhecimentos iniciais em javascript.
